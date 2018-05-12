@@ -1,0 +1,36 @@
+_repo: Young-Folks-Library-Volume-XI--of-20-Wonders-of-Earth-Sea-and-Sky_15884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Holden, Edward S. (Edward Singleton)
+    aliases:
+    - Atherton, Edward
+    - Singleton, Adam
+    - Holden, E. S. (Edward Singleton)
+    - Holden, Edward Singleton
+    birthdate: 1846
+    deathdate: 1914
+    gutenberg_agent_id: '6360'
+    url: http://www.gutenberg.org/2009/agents/6360
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Singleton_Holden
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2005-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15884'
+  lccn: 03008925
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Juvenile literature'
+- !lcc 'Q'
+title: 'Young Folks'' Library, Volume XI (of 20)
+
+  Wonders of Earth, Sea and Sky'
+url: http://www.gutenberg.org/ebooks/15884
